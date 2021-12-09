@@ -1,6 +1,6 @@
 # Vite Plugin Juice
 
-> A vite plugin to inline css styles via [Juice](https://github.com/Automattic/juice
+A vite plugin to inline css styles via [Juice](https://github.com/Automattic/juice)
 
 ### Usage
 
